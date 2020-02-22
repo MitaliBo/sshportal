@@ -18,15 +18,15 @@ require (
 	github.com/mattn/go-runewidth v0.0.8 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
-	github.com/moby/moby v0.7.3-0.20190103212154-2b7e084dc98b
+	github.com/moby/moby v0.12.0
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/reiver/go-oi v1.0.0
 	github.com/reiver/go-telnet v0.0.0-20180421082511-9ff0b2ab096e
 	github.com/sabban/bastion v0.0.0-20180110125408-b9d3c9b1f4d3
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3 // indirect
-	github.com/smartystreets/goconvey v1.6.4-0.20190330032615-68dc04aab96a
+	github.com/smartystreets/goconvey v1.6.4
 	github.com/urfave/cli v1.22.2
-	golang.org/x/crypto v0.0.0-20200214034016-1d94cc7ab1c6
+	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
 	golang.org/x/sys v0.0.0-20200217220822-9197077df867 // indirect
 	gopkg.in/gormigrate.v1 v1.6.0
 )
